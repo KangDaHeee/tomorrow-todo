@@ -1,0 +1,9 @@
+$kind: http-request
+name: POST http://localhost:8080/api/todos
+description: ""
+url: http://localhost:8080/api/todos
+method: GET
+body:
+  type: json
+  content: ""
+order: 1000
